@@ -1,5 +1,4 @@
 # Snake Game
-# Conway's Game of Life
 
 **This is an implementation of Snake Game in C++ using the raylib library, it is a singleplayer game based on the classic snake game where the snake has to eat food in order to grow larger and avoid hitting the border or itself**
 
@@ -33,3 +32,5 @@ D -> Move Right
   ## Preview
 
   **Snake game in action**
+  ![Gameplay](Assets/gameplay.gif)
+  
