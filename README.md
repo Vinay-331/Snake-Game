@@ -32,5 +32,13 @@ D -> Move Right
   ## Preview
 
   **Snake game in action**
-  ![Gameplay](Assets/gameplay.gif)
   
+  ![Gameplay](Assets/gameplay.gif)
+
+  **Snapshot from the game**
+
+  ![Snapshot](Assets/screenshot1.png)
+
+  **Game Over Screen**
+
+   ![Snapshot](Assets/screenshot2.png)
