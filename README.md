@@ -3,11 +3,9 @@
 **This is an implementation of Snake Game in C++ using the raylib library, it is a singleplayer game based on the classic snake game where the snake has to eat food in order to grow larger and avoid hitting the border or itself**
 
 ## How to run the game
-**1. On the repository page, click the green **<> Code** button and select **Download ZIP**.**
+**1. On the repository page, go to the releases and download the `.exe` file.**
 
-**2. Extract (unzip) the downloaded folder to a location on your computer.**
-
-**3. Open the extracted folder and double-click the `.exe` file to launch the game.**
+**2. Double-click the `.exe` file to launch the game.**
 
 
 ## Rules of the game
