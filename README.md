@@ -35,10 +35,10 @@ D -> Move Right
   
   ![Gameplay](Assets/gameplay.gif)
 
-  **Snapshot from the game**
+  ## Snapshot from the game
 
   ![Snapshot](Assets/screenshot1.png)
 
-  **Game Over Screen**
+  ## Game Over Screen
 
    ![Snapshot](Assets/screenshot2.png)
