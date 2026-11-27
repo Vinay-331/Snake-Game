@@ -10,7 +10,7 @@
 
 ## Rules of the game
 * **Eat apples in order to grow larger**
-* **Do not hit the head of the snake with it's body**
+* **Do not hit the head of the snake with its body**
 * **Do not hit the head of the snake with the wall (Window border)**
 
 ## Controls of the game
